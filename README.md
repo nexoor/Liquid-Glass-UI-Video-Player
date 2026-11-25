@@ -33,7 +33,7 @@ An ultra-premium, cinematic HTML5 video player meticulously engineered with pure
 ### 2. ⏳ Timeline Navigation & Advanced Seeker
 *   **🔄 Integrated Fast-Forward & Rewind:** Dedicated multi-state wrappers handle precision time skipping (`10s` directional jumps) for rapid scrub-free navigation.
 *   **🔄 Instant Refresh Engine:** An integrated micro-button interaction wrapper forces clean media stream refreshes without breaking page states or resetting structural layout DOM properties.
-*   **🎨 Canvas-Driven Hover Previews:** Built with structural hooks (`#thumbnail-canvas`) allowing active timeline mouse coordinates to pull immediate real-time video frames from secondary muted reference engines (`#p-vid`).
+*   **🎨 Canvas-Driven Hover Previews:** Built with structural hooks (`#thumbnail-canvas`) allowing active timeline mouse coordinates to pull immediate real-time video frames from secondary muted reference engines (`#p-vid`)
 
 ### 3. 🔊 Sound Engineering Hub
 *   **🎚️ Vertical Capsule Volume Sliders:** Features an isolated `.vol-sld` modular tray displaying reactive volumetric nodes upon mouse interaction.
